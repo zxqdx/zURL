@@ -4,6 +4,7 @@
   "description": "A \"bare-metal\" URL shortener",
   "main": "app.js",
   "scripts": {
+    "run": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/zxqdx/zURL/issues"
   },
-  "homepage": "https://github.com/zxqdx/zURL#readme"
+  "homepage": "https://github.com/zxqdx/zURL#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11",
+    "node-cache": "^5.1.0"
+  }
 }
