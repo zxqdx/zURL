@@ -1,0 +1,19 @@
+{
+  "name": "z-url",
+  "version": "1.0.0",
+  "description": "A \"bare-metal\" URL shortener",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zxqdx/zURL.git"
+  },
+  "author": "zxqdx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxqdx/zURL/issues"
+  },
+  "homepage": "https://github.com/zxqdx/zURL#readme"
+}
