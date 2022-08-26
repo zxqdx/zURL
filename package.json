@@ -19,7 +19,7 @@
   "homepage": "https://github.com/zxqdx/zURL#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "mongoose": "^6.2.7",
+    "mongoose": "^6.4.6",
     "node-cache": "^5.1.2"
   }
 }
